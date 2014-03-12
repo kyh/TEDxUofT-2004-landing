@@ -1,4 +1,4 @@
 TEDxUofT_Landing
 ================
 
-TEDxUofT2014 Landing Page
+TEDxUofT Landing Page Test v1.02
